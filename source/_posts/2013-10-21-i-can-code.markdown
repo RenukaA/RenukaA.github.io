@@ -1,0 +1,8 @@
+---
+layout: post
+title: "I Can Code"
+date: 2013-10-21 21:08
+comments: true
+categories: 
+---
+Coding is satisfying - I'm excited to learn how to build my own application 
