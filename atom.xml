@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://RenukaA.github.io/atom.xml" rel="self"/>
   <link href="http://RenukaA.github.io/"/>
-  <updated>2013-10-21T20:49:49-04:00</updated>
+  <updated>2013-10-21T21:15:27-04:00</updated>
   <id>http://RenukaA.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I Can Code]]></title>
+    <link href="http://RenukaA.github.io/blog/2013/10/21/i-can-code/"/>
+    <updated>2013-10-21T21:08:00-04:00</updated>
+    <id>http://RenukaA.github.io/blog/2013/10/21/i-can-code</id>
+    <content type="html"><![CDATA[<p>Coding is satisfying &ndash; I&rsquo;m excited to learn how to build my own application</p>
+]]></content>
+  </entry>
   
 </feed>
