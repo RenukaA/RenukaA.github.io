@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://RenukaA.github.io/atom.xml" rel="self"/>
   <link href="http://RenukaA.github.io/"/>
-  <updated>2013-10-21T21:15:27-04:00</updated>
+  <updated>2013-10-22T23:40:34-04:00</updated>
   <id>http://RenukaA.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[About Me]]></title>
+    <link href="http://RenukaA.github.io/blog/2013/10/22/about-me/"/>
+    <updated>2013-10-22T23:20:00-04:00</updated>
+    <id>http://RenukaA.github.io/blog/2013/10/22/about-me</id>
+    <content type="html"><![CDATA[<p>About Me</p>
+
+<p>Hello visitors! My name is Renuka Agarwal. Originally from India, I&rsquo;ve lived in Tokyo, Hong Kong, Oregon, and most recently Singapore, where my family currently resides. I came to New York City to attend Columbia University and have been working in the city since graduating in 2012. I currently work in digital advertising, although I also have an interest in finance, social entrepreneurship, and broader business.</p>
+
+<p>Why am I learning to program, you may ask? A few key reasons:</p>
+
+<p>1) Programming is cool! It has always been a blockaded, complex world that I&rsquo;ve yearned to understand. Given that I spend 90% of my time on web applications, I want to gain a better understanding of the programming behind them to demystify my life and become more tech savvy.</p>
+
+<p>2) I harbor dreams of starting my own business. To this end, knowledge of programming is invaluable, whether it is employed to create my own application or to help hire programmers who can.</p>
+
+<p>3) I want to challenge myself. Programming is a unique way of thinking, different from any other type of study or work I&rsquo;ve had to do in the past. Encouraging myself to think like a programmer will push me to new levels of intellectual stimulation.</p>
+
+<p>I&rsquo;m very excited about what lies ahead!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[I Can Code]]></title>
