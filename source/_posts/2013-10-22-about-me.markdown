@@ -1,0 +1,20 @@
+---
+layout: post
+title: "About Me"
+date: 2013-10-22 23:20
+comments: true
+categories: 
+---
+About Me, Renuka Agarwal
+
+Hello visitors! My name is Renuka Agarwal. Originally from India, I've lived in Tokyo, Hong Kong, Oregon, and most recently Singapore, where my family currently resides. I came to New York City to attend Columbia University and have been working in the city since graduating in 2012. I currently work in digital advertising, although I also have an interest in finance, social entrepreneurship, and broader business. 
+
+Why am I learning to program, you may ask? A few key reasons:
+
+1) Programming is cool! It has always been a blockaded, complex world that I've yearned to understand. Given that I spend 90% of my time on web applications, I want to gain a better understanding of the programming behind them to demystify my life and become more tech savvy.
+
+2) I harbor dreams of starting my own business. To this end, knowledge of programming is invaluable, whether it is employed to create my own application or to help hire programmers who can. 
+
+3) I want to challenge myself. Programming is a unique way of thinking, different from any other type of study or work I've had to do in the past. Encouraging myself to think like a programmer will push me to new levels of intellectual stimulation. 
+
+I'm very excited about what lies ahead!
